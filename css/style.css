@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&family=Press+Start+2P&family=Roboto&family=Silkscreen&display=swap');
+/* font-family: 'Nunito Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Silkscreen', cursive; */
+
+/* Paleta de Colores
+--rich-black-fogra-29: #0e131fff;
+--middle-blue-green: #84dccfff;
+--uranian-blue: #a6d9f7ff;
+--slate-gray: #6b717eff;
+--independence: #38405fff; */
+
+/* Mobile Last / Reseteo */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Presets */
+
+/* Header (logo + navbar + footer) */
+
+/* Main (h1-h2-divs-section */
+
+/* Footer */
